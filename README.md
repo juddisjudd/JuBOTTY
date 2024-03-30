@@ -2,6 +2,9 @@
 
 Welcome to the first concept of JuBOTTY, a Twitch chat bot. This preliminary version serves as a foundation for those in the D2R community who are interested in utilizing the specific command provided (!tz).
 
+## Preview of !tz command
+![](https://i.imgur.com/jH0gxBk.png)
+
 ## Requirements
 
 Before you get started, make sure you have the following installed on your system:
