@@ -24,3 +24,6 @@ Follow these steps to set up JuBOTTY on your machine:
 ## Disclaimer
 
 Please note that this version of JuBOTTY is provided as-is, without any form of support. I'm working on a significantly improved version and chose to share this initial concept to assist those within the D2R community.
+
+## Credits
+- [D2EMU/Mysterio](https://www.d2emu.com/) - For the Terror Zones API used in !tz
